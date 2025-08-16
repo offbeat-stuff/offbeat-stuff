@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-![offbeat-stuff's Streak](https://github-readme-streak-stats.herokuapp.com/?user=offbeat-stuff&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=offbeat-stuff&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=offbeat-stuff&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+
+![GitHub Stats](https://streak-stats.demolab.com?user=offbeat-stuff&theme=dark&hide_border=true)
+
+Stats generated using https://github-stats.omsimos.com/
 
 <!--
 **offbeat-stuff/offbeat-stuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
